@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat-square&logo=Apache Cordova&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=React-Native&logoColor=white"/>
   
   
   
