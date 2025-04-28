@@ -34,6 +34,4 @@
 <br><br> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Tae-Yun&show_icons=true&theme=dark)
 <br><br>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Tae-Yun%2Fhit-counter&count_bg=%23B2B2B2&title_bg=%23B2B2B2&icon=apple.svg&icon_color=%23FFFFFF&title=&edge_flat=false)
-
 </div>
