@@ -53,27 +53,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lee-Tae-Yun&show_icons=true&theme=dark&hide=contribs&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Tae-Yun&layout=compact&theme=dark&langs_count=8" />
 </p>
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lee-Tae-Yun&show_icons=true&theme=dark)
-
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Tae-Yun&layout=compact&theme=dark)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lee-Tae-Yun&theme=dark)
-
-<!-- GitHub Profile Trophy -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=Lee-Tae-Yun&theme=onedark&column=4&margin-w=10&margin-h=10)
-
-<!-- GitHub Activity Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lee-Tae-Yun&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-<!-- GitHub Metrics (종합 대시보드) -->
-<!-- 이건 SVG 파일을 깃허브 API 요청으로 받아오는 방식이라 .yml 설정이 필요함 -->
-<!-- 그래도 미리보기용 링크는 아래와 같음 -->
-<img src="https://raw.githubusercontent.com/Lee-Tae-Yun/Lee-Tae-Yun/main/github-metrics.svg" alt="metrics" width="100%">
 
 
 ### ✍️ TIL
