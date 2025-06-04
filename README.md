@@ -11,11 +11,14 @@
 
  **꿈꾸는 사람은, 멈추지 않습니다.** 🌱
 
+<br>
+
 ### ✍️ Blog
 
-하루하루 성장하는 개발 일지  
-📘 [Blog](https://Lee-Tae-Yun.github.io)
+📘[하루하루 성장하는 개발 일지](https://Lee-Tae-Yun.github.io)
 
+
+<br><br>
 
 ### 🛠 Tech Stack
 
