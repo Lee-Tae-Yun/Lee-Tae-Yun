@@ -59,7 +59,7 @@
 ### ✍️ TIL
 
 하루하루 성장하는 개발 일지  
-📘 [TIL Repository](https://github.com/Lee-Tae-Yun/iOS_Master_7)
+📘 [Blog](https://Lee-Tae-Yun.github.io)
 
 
 
