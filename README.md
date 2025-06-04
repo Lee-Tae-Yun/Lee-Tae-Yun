@@ -11,7 +11,11 @@
 
  **꿈꾸는 사람은, 멈추지 않습니다.** 🌱
 
-<br><br>
+### ✍️ Blog
+
+하루하루 성장하는 개발 일지  
+📘 [Blog](https://Lee-Tae-Yun.github.io)
+
 
 ### 🛠 Tech Stack
 
@@ -54,13 +58,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lee-Tae-Yun&show_icons=true&theme=dark&hide=contribs&count_private=true" />
 </p>
-
-
-### ✍️ TIL
-
-하루하루 성장하는 개발 일지  
-📘 [Blog](https://Lee-Tae-Yun.github.io)
-
 
 
 ### 📫 Contact
