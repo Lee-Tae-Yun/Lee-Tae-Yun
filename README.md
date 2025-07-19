@@ -15,7 +15,7 @@
 
 ### ✍️ Blog
 
-📘[하루하루 성장하는 개발 일지](https://Lee-Tae-Yun.github.io)
+📘[OopsChoonsik 오류낸 춘식이](https://Lee-Tae-Yun.github.io)
 
 
 <br><br>
