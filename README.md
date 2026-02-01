@@ -56,12 +56,6 @@
 
 <br><br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lee-Tae-Yun&show_icons=true&theme=dark&hide=contribs&count_private=true" />
-</p>
-
 
 ### 📫 Contact
 
